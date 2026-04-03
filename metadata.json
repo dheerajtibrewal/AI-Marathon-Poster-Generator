@@ -1,0 +1,7 @@
+{
+  "name": "Marathon AI Poster Generator",
+  "description": "Generate your personalized marathon runner poster using AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
