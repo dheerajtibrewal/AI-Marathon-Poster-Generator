@@ -94,24 +94,28 @@ npm run build
 
 <table>
   <tr>
-    <td align="center">
-      <img width="300" alt="Style Selection" src="" />
-      <br />
-      <b>Style Selection</b><br />
-      Choose from 6 artistic styles
-    </td>
-    <td align="center">
-      <img width="300" alt="Photo Capture" src="" />
-      <br />
-      <b>Photo Capture</b><br />
-      Selfie or upload options
-    </td>
-    <td align="center">
-      <img width="300" alt="Generated Poster" src="" />
-      <br />
-      <b>Generated Poster</b><br />
-      AI-transformed result
-    </td>
+
+   <td><img src="https://github.com/user-attachments/assets/9d02a56c-3d9a-4d5e-b585-46263fb6b512" width="250"/></td>
+   <td><img src="https://github.com/user-attachments/assets/082fd6da-5fbf-41f7-a36f-f0fe62b19aca" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/686be8bc-5cec-45b1-b0db-bb793806c6b4" width="250"/></td>
+   
+  </tr>
+  <tr>
+    <td align="center"><em>Landing Page</em></td>
+    <td align="center"><em>Select Comic theme</em></td>
+    <td align="center"><em>Capture/Upload</em></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/9df3aba0-a3b6-4d8e-ba23-fabb4c598296" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/55f58f0e-fc96-43b3-97c7-aa2ada5889d0" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/2bfb60ae-1fe1-444c-b5e7-d0bafe62858c" width="250"/></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center"><em>AI Generation</em></td>
+    <td align="center"><em>Final Result</em></td>
+     <td align="center"><em>Download & Share</em></td>
+    <td></td>
   </tr>
 </table>
 
